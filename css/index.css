@@ -1,0 +1,138 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.top {
+    width: 100%;
+}
+
+.style {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+.contents01 {
+    position: relative;
+}
+
+.contents1 {
+    width: 100%;
+}
+
+.google01 {
+    position: absolute;
+    top: 42%;
+    left: 9.5%;
+}
+
+.google1 {
+    width: 48%;
+}
+
+.google02 {
+    position: absolute;
+    top: 42%;
+    left: 55.5%;
+}
+
+.google2 {
+    width: 79%;
+}
+
+.contents2 {
+    width: 100%;
+}
+
+.contents3 {
+    width: 100%;
+}
+
+.contents04 {
+    position: relative;
+}
+
+.contents4 {
+    width: 100%;
+}
+
+.line_button {
+    position: absolute;
+    top: 41%;
+    left: 6%;
+}
+
+.line {
+    width: 93%;
+}
+
+.contents05 {
+    position: relative;
+}
+
+.contents5 {
+    width: 100%;
+}
+
+.insta_button {
+    position: absolute;
+    top: 58%;
+    left: 10%;
+}
+
+.insta {
+    width: 87%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
